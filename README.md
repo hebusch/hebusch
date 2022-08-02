@@ -11,7 +11,7 @@
 <p align="center">
     <b>Lenguajes:
 </p>
-<div style="display:flex;gap:10px;align-items:center;justify-content:center;flex-wrap:wrap;">
+<div style="display:flex;gap:10px;align-items:center;justify-content:center;flex-wrap:wrap;" align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
@@ -24,7 +24,7 @@
 <p align="center">
     Frameworks & Librerías:</b>
 </p>
-<div style="display:flex;gap:10px;align-items:center;justify-content:center;flex-wrap:wrap;">
+<div style="display:flex;gap:10px;align-items:center;justify-content:center;flex-wrap:wrap;" align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
