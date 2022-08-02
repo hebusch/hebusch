@@ -1,4 +1,4 @@
-<br>
+<hr>
 
 <p align="center">
     Hola soy Heinz Busch Carvajal :smile:
@@ -62,4 +62,4 @@
     </p>
 </div>
 
-<hr style="margin-top:-5px">
+<hr style="margin-top: 15px">
