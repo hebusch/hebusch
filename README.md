@@ -1,11 +1,11 @@
 <br>
 
 <p align="center">
-    Hola soy Heinz Busch Carvajal
+    Hola soy Heinz Busch Carvajal :smile:
     <br>
     Estudiante de Ing Civil Industrial Computación :computer:
     <br>
-    Pontificia Universidad Católica de Chile
+    Pontificia Universidad Católica de Chile :mortar_board:
 </p>
 <br>
 <p align="center">
