@@ -50,7 +50,7 @@
         <a href="https://www.instagram.com/hebusch">
             <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" align="center" height="30px"/>
         </a>
-        <a href="linkedin.com/in/hebusch">
+        <a href="https://linkedin.com/in/hebusch">
             <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" align="center" height="30px"/>
         </a>
         <a href="https://t.me/hebusch" style="color:white;">
